@@ -1,0 +1,108 @@
+{
+  "main": {
+    "name":"Arshad Sacoor",
+    "description":"I am a final year student at The University of Pretoria and currently completing a degree in BSc Computer Science",
+    "image":"profilepic.jpg",
+    "bio":"I am adaptable, reliable and have good time management skills. I am very keen to learn new programming technologies. My interests are software engineering, artificial intelligence, web development and user interface development. I have experience with programming languages such Java, C++, Python and SQL. I have also previously used Cloud services such as Amazon AWS and Microsoft Azure",
+    "contactmessage":"Contact Details",
+    "email": "arshadsacoor@me.com",
+    "phone": "0826636700",
+    "github":"https://github.com/nordicgiant2/react-nice-resume",
+    "project":"https://github.com/COS301-SE-2021/Harmony/",
+    "address":{
+      "city":"Pretoria",
+      "state":"Gauteng",
+      "zip": "0023"
+    },
+    "website": "http://www.arshad.co.za",
+    "resumedownload":"https://drive.google.com/file/d/1ggT3Zx9SPknovCgsm7eCs-ra_TuJyet5/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://web.facebook.com/arshad.sacoor.1",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/arshad_sacoor",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/arshad-sacoor-613a5720b/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/arshad_sacoor/?utm_medium=copy_link",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ASacoor",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Pretoria",
+        "degree":"BSc Computer Science",
+        "graduated":"2018 - Current",
+        "description":"I learnt different programming languages and skills such Java,C++ and Python"
+      },
+      {
+        "school":"Tshwane Muslim School",
+        "degree":"Matric Certificate",
+        "graduated":"December 2016",
+        "description":"I completed my entire schooling career at Tshwane Muslim School"
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2018 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"C++",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  }
+}
